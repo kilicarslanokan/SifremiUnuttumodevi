@@ -25,7 +25,7 @@ namespace ŞifremiUnuttum
             sc.Port = 587;
             sc.Host = "smtp.gmail.com";
             sc.EnableSsl = true;
-            sc.Credentials = new NetworkCredential("okan.kilicarslan5@gmail.com", "okan10361388594");
+            sc.Credentials = new NetworkCredential("okan.kilicarslan5@gmail.com", "*****");
 
             string konu = "ŞİFRE HATIRLATMA";
             string icerik = "Şifreniz: 123";
