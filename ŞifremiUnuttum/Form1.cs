@@ -57,6 +57,3 @@ namespace ŞifremiUnuttum
         }
     }
 }
-//mail.IsBodyHtml = true;
-//Data Source=.\SQLEXPRESS;Initial Catalog=WindowsFormSifremiUnuttum;Integrated Security=True
-//MessageBox.Show("HATALI GİRİŞ YAPTINIZ!", "UYARI", MessageBoxButtons.OK, MessageBoxIcon.Error);
